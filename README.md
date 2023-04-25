@@ -1,3 +1,5 @@
 # Hangman Game
 
-In this hangman game, we start by choosing a random secret word. Then the player has to guess the word before he loses all 6 of his lives. If he manages to get all the letters right, congratulations, he won the game! But if he gets it wrong, his life gets harder and a playful message is displayed to liven up the situation. And if he loses all his lives, it's game over, but no stress, just try again!
+The word guessing game is like a TV show, in which the player needs to guess a secret word before reaching a maximum number of guesses. The game starts with dashes representing the letters of the secret word and the player needs to guess one letter at a time. If you get it right, the lyrics are revealed and if you get it wrong, the presenter can make jokes. If the player hits all the letters before the maximum number of attempts, the presenter congratulates the player. If the player fails, the presenter announces the loss, but encourages the player to play again.
+
+
